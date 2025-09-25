@@ -5,7 +5,7 @@ It tracks primary KPIs (efficiency and utilization) and secondary KPIs (costs, l
 
 ## Dashboard Demo  
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](Dashboard.png)
 
 
 ## Primary KPI Insights – Inventory & Warehouse
