@@ -12,14 +12,16 @@ It tracks primary KPIs (efficiency and utilization) and secondary KPIs (costs, l
 
 1. Warehouse Utilization – 34.08%
 Facility is under-utilized, indicating inefficient use of capital and space.
+
 Solutions:
 
 Right-size the warehouse to match demand.
 Sub-lease unused space to reduce fixed costs.
 
 
-3. Days Sales of Inventory (DSI) – 15.56 days
+2. Days Sales of Inventory (DSI) – 15.56 days
 Inventory moves quickly, but capital is tied up for over two weeks.
+
 Solutions:
 
 Align procurement with sales velocity.
@@ -28,6 +30,7 @@ Improve cash flow by reducing excess holding.
 
 3. Inventory Turnover Ratio – 23.47
 High turnover indicates strong sales efficiency relative to stock levels.
+
 Solutions:
 
 Optimize reorder points to prevent stockouts.
@@ -100,13 +103,13 @@ Real-time KPI tracking for both primary and secondary metrics.
 
 ## Key Points
 
-Warehouse utilization is critically low, requiring space optimization.
+1. Warehouse utilization is critically low, requiring space optimization.
 
-Transportation costs are heavily skewed toward the West region.
+2. Transportation costs are heavily skewed toward the West region.
 
-Accessories face both higher lead times and lower inventory levels, creating a double inefficiency.
+3. Accessories face both higher lead times and lower inventory levels, creating a double inefficiency.
 
-Electronics category is most vulnerable due to high backorders.
+4. Electronics category is most vulnerable due to high backorders.
 
 
 ## How to Use This Repo
